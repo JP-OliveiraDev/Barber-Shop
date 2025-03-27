@@ -29,7 +29,8 @@ Este é o repositório do frontend do Barber Scheduler, um sistema desenvolvido 
 
 🔄 RxJS → Programação reativa para manipulação de dados assíncronos.
 
-### 📦 Dependências principais
+
+## 📦 Dependências principais
 ```
 "dependencies": {
     "@angular/cdk": "^19.2.3",
@@ -48,7 +49,6 @@ Este é o repositório do frontend do Barber Scheduler, um sistema desenvolvido 
     "zone.js": "~0.15.0"
 }
 ```
----
 
 ## ▶️ Como Executar o Projeto
 
