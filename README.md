@@ -48,6 +48,7 @@ Este é o repositório do frontend do Barber Scheduler, um sistema desenvolvido 
     "zone.js": "~0.15.0"
 }
 ```
+---
 
 ## ▶️ Como Executar o Projeto
 
